@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shreya/Environments/virtualenvironment/project_1/model.tflearn"
+all_model_checkpoint_paths: "/home/shreya/Environments/virtualenvironment/project_1/model.tflearn"
